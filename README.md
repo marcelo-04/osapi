@@ -20,4 +20,4 @@ Essa são as tecnologias usadas para esse projeto.
 * MySql em aplicações Spring Boot.
 
 ### Criação das Classes de domínio
-Criação do package domain, para classe Pessoa abstract, nessa classe criamos os construtores de acesso e os métodos assessores e modificadores( Getts e Setts). E nas classes Tecnico e Cliente eu aprendir a usar o entends Pessoa nas classes.
+Criação do package domain, para classe Pessoa abstract, nessa classe criamos os construtores de acesso e os métodos assessores e modificadores( Getters e Setters). E nas classes Tecnico e Cliente eu aprendir a usar o entends Pessoa nas classes.
