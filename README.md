@@ -20,4 +20,11 @@ Essa são as tecnologias usadas para esse projeto.
 * MySql em aplicações Spring Boot.
 
 ### Criação das Classes de domínio
-Criação do package domain, para classe Pessoa abstract, nessa classe criamos os construtores de acesso e os métodos assessores e modificadores( Getters e Setters). E nas classes Tecnico e Cliente eu aprendir a usar o entends Pessoa nas classes.
+Criação do package domain, para classe Pessoa abstract, nessa classe criamos os construtores de acesso e os métodos assessores e modificadores( Getters e Setters). E nas classes Tecnico e Cliente eu aprendi a usar o entends Pessoa nas classes.
+
+### Tipos Enumerados
+No pacote enum foi criado uma classe Prioridade e Status para base de dados para evitar problema futuros. Nessas classes foram 
+criados o construtor e Getters, um método static para não precisar instanciar uma nova Prioridade para chamar esse método, também 
+foi laçado uma exceção throw new IllegalArgumentException na classes.
+
+
